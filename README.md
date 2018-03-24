@@ -1,4 +1,4 @@
-<img align="left" width="150" height="150" src="https://github.com/Sardhendu/Sardhendu.github.io/blob/master/SAM.png">
+<img align="left" width="150" height="150" src="https://lh3.googleusercontent.com/7tIQ9fjR7_a0DC4zqxlMXB_kMOqreZdeYDn9JYGiurZPK0nqD3XHDsU4-yXzt1wJMKFW1644QE-abBaD96ll3xpK9PaSWJqMYjEfsPdomxoEFQ1N54pxiZUpq-nF5tFagdMQLNgZi7Lo7Mfmko2e1YNZJ1_BpwPEb2bf0Lhi9rzT24tr3ThlzWUkKr9OFvbS78WTGebjQmCJfc9IJOLFta51kzb_zmvh6lwTIzQH19njSwsTsfgwv_2i2ttKt9rfksmi4nZrn_cMJaD3I_WVFJf4doMh3_cszdXElwJEdG0uuWlu9iSql3NBUy5BZFr2ZBBHgFBHBRdFLydAk3ZGz0gGMpK1dNtoxRvKXq0fxVdXXkdg80OPnLzFqR0M79FaeeWfe5oXXGGRhmBAyspD53fFBzg4xkBAcHznnemJXxIecrkpj2Ym-NA20hBBZbFMkJP6lSMRRJqvQdJbDVc6Ldkf9P47WNjf3Gs98__W78UUt3m8GmJO8RreMasfO-rjOnuf2PBkiNnAQNyno5QLutQNagA41KBcDiPb4DDPdcndIj-FpF_IrJfbysxAT6wC1tkzd22WIuSOHrLsOkkIcfs4WZ_QXU9CfLp5_4gc8Und_TrVkba4gXbbdKTUJl05kkXrlfA8w134SYg0G6us8Ys0ieQarN_J=s400-no">
 
 <center> <h1> SARDHENDU MISHRA </h1> </center>
 
@@ -64,6 +64,8 @@ This project was aimed to detect and extract license plates of vehicles (4-wheel
 ##### Skills developed: Python, Scikit-learn, OpenCV
 
 ------------------
+
+
 
 
 
