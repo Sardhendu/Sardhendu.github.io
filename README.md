@@ -15,7 +15,7 @@
 #### Property Classification [*Link*](https://github.com/Sardhendu/PropertyClassification)
 <div id="wrapper">
     <div class="twoColumn">
-        <img align="right" width="150" height="150"  src="https://github.com/Sardhendu/Sardhendu.github.io/blob/master/SAM.png">
+        <img align="right" width="150" height="150"  src="https://lh3.googleusercontent.com/EP9rVOOBzdv2HSzPlkKwa_ez-MZdG-if66lbs888JO_NDtt89FbBSkCKvfyGC8rNtaDX6Vd5lMApr6_9jniueN-jQdfWxAb5eyJb_GmScKR5VqK_SvxJLVF4Caar6ZnGws-eBRMcpxY4A_zmgf0pu-0psVBFG81gyBzvh-wzIZPBNGTtwYliJaoIuucGuNXW-Bpyr17yb5XHFscEoSyr2TZP2OYjef3Y2BFrbDG54tjg3utfFE6JwnxRcJONT1yLr2Ex2nIKThdQKKSChEdqG9uiEltTFUZyVmgdXgoj6iCAFFsnS-8JZYlpECA6aYqGT3pFtgrwoesOCQsbHC_eOSy9dhigKvuBWVXtraoddtwHDb2ZyehjrQlJBkzuG8ariWJd9K6pUSWPyH48ecqX0pnLt7LI2RIdvX2u6po5NJZT_5I3-4sXtsbc9GFj0PN6zPaQH7d7A8fKZrw4qpqRFTnV-ooaGUivx3ekZ2oH20M2EFMQFw5sCqIvja2EjcotbO0coh2pJWujmqPyMZcnEz8opbBnh2D7yPlCGeys0ns8jFvVe48HdCfi0CeuLNEIL7K2N45E0DcCjWkjWRJr18tsspn4sUmGWfzdNdA=w432-h316-no">
     </div>
     <div class="twoColumn">
          <p>This project is aimed to classify the type of property (Land/House) given a "Address string" or a "real-estate property image". Data is collected and integrated from several sources. Building boundaries are collected from <b>Open Street Map (OSM)</b> and Satellite, Aerial, Streetside images are collected from <b>Google Maps</b> and <b>Bing Maps</b>. Concepts of Semantic Segmentation and model emsembles are employed to output the best prediction given image types.
@@ -52,8 +52,7 @@
         <img align="right" width="150" height="150"  src="https://lh3.googleusercontent.com/bNa6NQUAkSYzZ3J9RFs0_0oN7SspOKAU7IYZalrWQZEaEdSznuynsej4Kc1YUnQ-V1cFw4MK7qyukpIWHOhMQxOEILgdLDIJWLIFQt_NU9DxETe7m2CmJPXKlYOvNf0imEmpkhZAaT1--3ktklVKjQ6rVm_mQ_Hf1nn5n8p5jvAfBKhjcX4YcxruZKdCCpJGpBewh9jyxcUGo8R1S-Dd_A84ZXKj0fYdj-8JBidLf--VQjtvS39mKEp7_nMnk60bebSEcGFhHeXn1So7qXQRY1Se7LhBOk2Mc8vED3WYwkqRZ1ZGV5TD8_kp7ZEfmXlyoVDjTO70QE4i-syExthvl_26JBeMwDda9nUXQjlQMYO5c4CtjORp2veS96ayOkNwF3fmFqfT-sBPek8kQvekGUd7xS1VOB4c04s-fjJwAWewN6S1zLGvRnRxDtkES0vHZTV1HxUtNjnyTJxPoFvYPQFUa7S8XnhVMk238EyK0yRN7Y1yM08W8GpD4MIpo11u9AYuFFlht4dVCaAuVgBx0F7N4EzmaxIgW2_0ObnJ8lWhtqKp6CkHBmd8ffNNogM3l3xgS87t3lFFefeo9qbTZCz2p_tW4_0qnxVojlQ=w454-h378-no">
     </div>
     <div class="twoColumn">
-         <p>This application leverages Transfer Learning with Google Net (NN4 small) architecture to recognize faces given an image. It employs a multi-step approach, 1) Extracting all the faces from an image, 2) Labeling the faces with the person name. The application implements ideas from the paper <a href https://arxiv.org/pdf/1503.03832.pdf> Facenet </a>
-            <br><br>Skills developed: Python, Tensorflow, OpenCV </br></br>
+         <p>This application leverages Transfer Learning with Google Net (NN4 small) architecture to recognize faces given an image. It employs a multi-step approach, 1) Extracting all the faces from an image, 2) Labeling the faces with the person name. The application implements ideas from the paper <a href https://arxiv.org/pdf/1503.03832.pdf>Facenet</a><br><br>Skills developed: Python, Tensorflow, OpenCV </br></br>
          </p>
     </div>
 </div>
@@ -67,7 +66,7 @@
         <img align="right" width="150" height="150"  src="https://lh3.googleusercontent.com/_ra4kUet2rf0YOBUtEUymjtUETKCn2JtqrpllrR2HUsFaUE-ap9-4XtmWwJUTlfCIjzQNz3WJFsV4wycdlsCGOqMtNTU5MxPxzZzzDotaNJnBsN_I2jx88bRXCtF1-x01xK4GOuQlqnN5ORn51agldjWsNDMSmhW7LiAcf6yQTTMchXI6BQLEIxaTVDsePm69Apqcs35K0uTLaFDniUI4R_0dQz2IovRuHbV96PtdHBk9QaUW7_13cooMpGDEQnFIgJe0MO6T0HSZkcq36_BT8YuJZrcobb9DnrVyTK4nK8pOV5tDotW8-ayBU7b4p9SNVhMug40b1CpsgPlWCgbUNQglfZBssMUN2P6YNr3nnkJ-8erGJq3Ly9Blg7s1gCNMg-EJwe_gTcsnG6OyUT7UC0i5pgv9R8fMTUQOb-o0ZqZ3fZWRTmCuzY_q2NTadZgBbr6RAhNUcwT0vSOItv7LRbp8xgT5N0M1gCSrfWxnooymKhzsa5_tTLDrR3VSG9E1n2yGasR8qPo0mwNEObqpisOw1g40TfjE6F9EhIkNOMLQltK8lxVXJ4fjkT9OgXCT5KDXCgQmvDHOwf15fKinISPyQnBohNRs-GVI-I=w363-h366-no">
     </div>
     <div class="twoColumn">
-         <p>This project was aimed to evaluate a mix of several Deep Learning, Image Processing and Machine Learning models to classify an object in an image. The data was collected from [Kaggle](https://www.kaggle.com/c/cifar-10). For the sake of simplicity and to evaluate the algorithms, only 2 classes were used.<a href https://github.com/Sardhendu/CIFAR10-Object-Recognition/blob/master/Project-Presentation.pdf> PRESENTATION LINK </a><br><br>Skills developed: Python, Scikit-learn, OpenCV, Tensorflow</br></br>
+         <p>This project was aimed to evaluate a mix of several Deep Learning, Image Processing and Machine Learning models to classify an object in an image. The data was collected from <a href https://www.kaggle.com/c/cifar-10>Kaggle</a>. For the sake of simplicity and to evaluate the algorithms, only 2 classes were used.<a href https://github.com/Sardhendu/CIFAR10-Object-Recognition/blob/master/Project-Presentation.pdf> PRESENTATION LINK </a><br><br>Skills developed: Python, Scikit-learn, OpenCV, Tensorflow</br></br>
          </p>
     </div>
 </div>
@@ -93,7 +92,7 @@
 
 <div id="wrapper">
     <div class="twoColumn">
-        <img align="right" width="150" height="150"  src="">
+        <img align="right" width="150" height="150"  src="https://lh3.googleusercontent.com/6xUpB8xYVV7E-opsMaN3t88k87DJbqRD2KEgTMuA2qPuP_glH5DR1gf0rwK8qHYHrI9GKI84lr-R9wi_OE4ueZ6M14AZ2J87N71eX5HDOgWzFvrb872oLOcMu3DbjOvPnI7cMVe5AoMErTRiFDZ6KIWWQ2Ta9QZmjVw42nGUO5-6pSQuiToVDlAT0tNvxHADNenhFsB_T1tMkvZJ5ebPGzllE1DsK2v0VgMNgpg4AfqeknabIT2ITOc4IyJbtM2LbW7xE33C8XT9ib9z8e4WCMTFwH2qP7Bw8adyHsZK0t2U5AmaTQjI5FWC1SMJIxf-HoEEXu9CCqIYL8yuKUwe_wJIMKvsz1FGNj5eNB8Gs8bxefZfr8M6Zs82VFYMDefnHf7R-5HWxvtcX6APBBLibLBnmmxVHn-cWGBDNUpK7IyHwcLYlGReR86PMIKiE79dP1MTlI1dxqRP2HHtQz1DNDEdCjJyEVolCBANXkMFTLHaDK4eqsrZ-EY3P8crlueXBh9zX0iW-zGL0QKE80dJGWkpcnnBFrAetx8S7-oQoEVvfABGWzj_t_c0U3zW-Pr7zfW1W6wS888P7VFajbGfgyNt4dZRYpLEbiFCo7U=w312-h234-no">
     </div>
     <div class="twoColumn">
          <p>This project was aimed to experiment and evaluate several Machine Learning algorithms. The classification task was to classify whether a locality was high crime zone or low crime zone and the regression task was to predict the crime rate.<br><br>Skills developed: Python, Scikit-learn</br></br>
