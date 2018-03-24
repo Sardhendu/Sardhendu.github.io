@@ -10,7 +10,6 @@
 
 -----------------
 
-----------------
 
 #### Property Classification [*Link*](https://github.com/Sardhendu/PropertyClassification)
 <div id="wrapper">
