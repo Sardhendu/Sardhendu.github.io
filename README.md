@@ -10,21 +10,21 @@
 
 -----------------
 
-#### Property Classification</u> [*Link*](https://github.com/Sardhendu/PropertyClassification)
+#### Property Classification [*Link*](https://github.com/Sardhendu/PropertyClassification)
 This project is aimed to classify the type of property (Land/House) given a "Address string" or a "real-estate property image". Data is collected and integrated from several sources. Building boundaries are collected from **Open Street Map (OSM)** and Satellite, Aerial, Streetside images are collected from **Google Maps** and **Bing Maps**. Concepts of Semantic Segmentation and model emsembles are employed to output the best prediction given image types.
 
 ##### Skills developed: Python, Scikit-learn, OpenCV, GeoPandas, Shapely, TensorFlow (GPU), Keras, Geojson, Azure Cloud stack
 
 -----------
 
-#### Credit Card Fraud</u> [*Link*](https://github.com/Sardhendu/Data-Science-Projects/tree/master/CreditCardFraudDetection)
+#### Credit Card Fraud [*Link*](https://github.com/Sardhendu/Data-Science-Projects/tree/master/CreditCardFraudDetection)
 This project is aimed to identify credit card frauds. Pattern Recognition techniques such as **Bagging and Boosting with Trees**, **Deep Neural Nets**, **Autoencoders** and **Parallelized Bayesian nets** are evaluated. The dataset is collected from Kaggle. As a outcome the models parameters are tuned to have high performance in identifying fraud cases.
 
 ##### Skills developed: Python, R, TensorFlow, 
 
 --------------------------
 
-<h2> Projects Accomplished </h3>
+<h2> Projects Accomplished </h2>
 
 -------------------------
 
