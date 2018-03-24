@@ -1,4 +1,4 @@
-<img align="left" width="200" height="200" src="https://github.com/Sardhendu/Sardhendu.github.io/SAM.jpeg">
+<img align="left" width="150" height="150" src="https://github.com/Sardhendu/Sardhendu.github.io/SAM.jpeg">
 
 <center> <h1> SARDHENDU MISHRA </h1> </center>
 
