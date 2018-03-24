@@ -70,7 +70,7 @@
     </div>
     <div class="twoColumn">
          <p>
-            This project was aimed to evaluate a mix of several Deep Learning, Image Processing and Machine Learning models to classify an object in an image. The data was collected from <a href https://www.kaggle.com/c/cifar-10>Kaggle</a>. For the sake of simplicity and to evaluate the algorithms, only 2 classes were used. <a href https://github.com/Sardhendu/CIFAR10-Object-Recognition/blob/master/Project-Presentation.pdf>PRESENTATION LINK</a><br><br>Skills developed: Python, Scikit-learn, OpenCV, Tensorflow
+            This project was aimed to evaluate a mix of several Deep Learning, Image Processing and Machine Learning models to classify an object in an image. The data was collected from <a href https://www.kaggle.com/c/cifar-10>Kaggle</a>. For the sake of simplicity and to evaluate the algorithms, only 2 classes were used. <a href https://github.com/Sardhendu/CIFAR10-Object-Recognition/blob/master/Project-Presentation.pdf>PRESENTATION LINK</a><br><br>Skills developed: Python, Scikit-learn, OpenCV, Tensorflow</br></br>
          </p>
     </div>
 </div>
@@ -85,7 +85,7 @@
     </div>
     <div class="twoColumn">
          <p>
-            This project was aimed to analyze the factors led to the early re-admission of a diabetic patient. In addition, the model was trained to predict whether a diabetic patient would be re-admitted within the next 30 days. The data set was collected from <a href https://archive.ics.uci.edu/ml/index.php> UCI repository </a> and implements idea from the <a href https://www.hindawi.com/journals/bmri/2014/781670/> paper </a> published by the authors. The data analysis pipeline was build using Py-Spark. <br><br>Skills developed: Python, Py-Spark (MLlib)
+            This project was aimed to analyze the factors led to the early re-admission of a diabetic patient. In addition, the model was trained to predict whether a diabetic patient would be re-admitted within the next 30 days. The data set was collected from <a href https://archive.ics.uci.edu/ml/index.php> UCI repository </a> and implements idea from the <a href https://www.hindawi.com/journals/bmri/2014/781670/> paper </a> published by the authors. The data analysis pipeline was build using Py-Spark. <br><br>Skills developed: Python, Py-Spark (MLlib)</br></br>
          </p>
     </div>
 </div>
@@ -101,7 +101,7 @@
     </div>
     <div class="twoColumn">
          <p>
-            This project was aimed to experiment and evaluate several Machine Learning algorithms. The classification task was to classify whether a locality was high crime zone or low crime zone and the regression task was to predict the crime rate.<br><br>Skills developed: Python, Scikit-learn
+            This project was aimed to experiment and evaluate several Machine Learning algorithms. The classification task was to classify whether a locality was high crime zone or low crime zone and the regression task was to predict the crime rate.<br><br>Skills developed: Python, Scikit-learn</br></br>
          </p>
     </div>
 </div>
@@ -115,7 +115,7 @@
     </div>
     <div class="twoColumn">
          <p>
-            This project was aimed to detect and extract license plates of vehicles (4-wheelers) given an image. It takes a multi-step approach, 1) Using several Image processing techniques we extract all contours (Region of interests) from the image and 2) We classify each extracted regions as License Plates or Non-license Plates. <br><br>Skills developed: Python, Scikit-learn, OpenCV
+            This project was aimed to detect and extract license plates of vehicles (4-wheelers) given an image. It takes a multi-step approach, 1) Using several Image processing techniques we extract all contours (Region of interests) from the image and 2) We classify each extracted regions as License Plates or Non-license Plates. <br><br>Skills developed: Python, Scikit-learn, OpenCV</br></br>
          </p>
     </div>
 </div
