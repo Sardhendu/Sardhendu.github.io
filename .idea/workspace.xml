@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a8c84c6-5200-42b4-ba7d-90ba68edaacd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/div.txt" afterPath="$PROJECT_DIR$/div.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,8 +21,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="677">
-                <caret line="116" column="395" lean-forward="false" selection-start-line="116" selection-start-column="395" selection-end-line="116" selection-end-column="395" />
+              <first_editor relative-caret-position="597">
+                <caret line="112" column="330" lean-forward="false" selection-start-line="112" selection-start-column="330" selection-end-line="112" selection-end-column="330" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -33,8 +33,8 @@
       <file leaf-file-name="div.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/div.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2340">
-              <caret line="117" column="0" lean-forward="false" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
+            <state relative-caret-position="813">
+              <caret line="122" column="0" lean-forward="true" selection-start-line="122" selection-start-column="0" selection-end-line="122" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -43,8 +43,8 @@
       <file leaf-file-name="nrml.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/nrml.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1260">
-              <caret line="63" column="52" lean-forward="false" selection-start-line="63" selection-start-column="6" selection-end-line="63" selection-end-column="52" />
+            <state relative-caret-position="193">
+              <caret line="40" column="25" lean-forward="true" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -60,8 +60,8 @@
       <list>
         <option value="$PROJECT_DIR$/rough.txt" />
         <option value="$PROJECT_DIR$/nrml.txt" />
-        <option value="$PROJECT_DIR$/div.txt" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/div.txt" />
       </list>
     </option>
   </component>
@@ -277,16 +277,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/div.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2340">
-          <caret line="117" column="0" lean-forward="false" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
+        <state relative-caret-position="813">
+          <caret line="122" column="0" lean-forward="true" selection-start-line="122" selection-start-column="0" selection-end-line="122" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/nrml.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1260">
-          <caret line="63" column="52" lean-forward="false" selection-start-line="63" selection-start-column="6" selection-end-line="63" selection-end-column="52" />
+        <state relative-caret-position="193">
+          <caret line="40" column="25" lean-forward="true" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
           <folding />
         </state>
       </provider>
@@ -294,8 +294,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="677">
-            <caret line="116" column="395" lean-forward="false" selection-start-line="116" selection-start-column="395" selection-end-line="116" selection-end-column="395" />
+          <first_editor relative-caret-position="597">
+            <caret line="112" column="330" lean-forward="false" selection-start-line="112" selection-start-column="330" selection-end-line="112" selection-end-column="330" />
             <folding />
           </first_editor>
           <second_editor />
