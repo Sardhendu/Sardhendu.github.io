@@ -19,7 +19,7 @@
     <div class="twoColumn">
          <p>
             This project is aimed to classify the type of property (Land/House) given a "Address string" or a "real-estate property image". Data is collected and integrated from several sources. Building boundaries are collected from <b>Open Street Map (OSM)</b> and Satellite, Aerial, Streetside images are collected from <b>Google Maps</b> and <b>Bing Maps</b>. Concepts of Semantic Segmentation and model emsembles are employed to output the best prediction given image types.
-            <br><br>Skills developed: Python, Scikit-learn, OpenCV, GeoPandas, Shapely, TensorFlow (GPU), Keras, Geojson, Azure Cloud stack</br></br>
+            <br><br>Skills developed: Python, Scikit-learn, OpenCV, GeoPandas, Shapely, TensorFlow (GPU), Keras, Geojson, Azure Cloud stack<br><br>
          </p>
     </div>
 </div>
@@ -35,7 +35,7 @@
     <div class="twoColumn">
          <p>
             This project is aimed to identify credit card frauds. Pattern Recognition techniques such as <b>Bagging and Boosting with Trees</b>, <b>Deep Neural Nets</b>, <b>Autoencoders</b> and <b>Parallelized Bayesian nets</b> are evaluated. The dataset is collected from Kaggle. As a outcome the models parameters are tuned to have high performance in identifying fraud cases.
-            <br><br>Skills developed: Python, R, TensorFlow </br></br>
+            <br><br>Skills developed: Python, R, TensorFlow <br><br>
          </p>
     </div>
 </div>
@@ -54,7 +54,7 @@
     </div>
     <div class="twoColumn">
          <p>
-            This application leverages Transfer Learning with Google Net (NN4 small) architecture to recognize faces given an image. It employs a multi-step approach, 1) Extracting all the faces from an image, 2) Labeling the faces with the person name. The application implements ideas from the paper <a href https://arxiv.org/pdf/1503.03832.pdf>Facenet</a><br><br>Skills developed: Python, Tensorflow, OpenCV</br></br>
+            This application leverages Transfer Learning with Google Net (NN4 small) architecture to recognize faces given an image. It employs a multi-step approach, 1) Extracting all the faces from an image, 2) Labeling the faces with the person name. The application implements ideas from the paper <a href="https://arxiv.org/pdf/1503.03832.pdf">Facenet</a><br><br>Skills developed: Python, Tensorflow, OpenCV<br><br>
          </p>
     </div>
 </div>
@@ -69,7 +69,7 @@
     </div>
     <div class="twoColumn">
          <p>
-            This project was aimed to evaluate a mix of several Deep Learning, Image Processing and Machine Learning models to classify an object in an image. The data was collected from <a href https://www.kaggle.com/c/cifar-10>Kaggle</a>. For the sake of simplicity and to evaluate the algorithms, only 2 classes were used. <a href https://github.com/Sardhendu/CIFAR10-Object-Recognition/blob/master/Project-Presentation.pdf>PRESENTATION LINK</a><br><br>Skills developed: Python, Scikit-learn, OpenCV, Tensorflow</br></br>
+            This project was aimed to evaluate a mix of several Deep Learning, Image Processing and Machine Learning models to classify an object in an image. The data was collected from <a href="https://www.kaggle.com/c/cifar-10>Kaggle"</a>. For the sake of simplicity and to evaluate the algorithms, only 2 classes were used. <a href https://github.com/Sardhendu/CIFAR10-Object-Recognition/blob/master/Project-Presentation.pdf>PRESENTATION LINK</a><br><br>Skills developed: Python, Scikit-learn, OpenCV, Tensorflow<br><br>
          </p>
     </div>
 </div>
@@ -84,7 +84,7 @@
     </div>
     <div class="twoColumn">
          <p>
-            This project was aimed to analyze the factors led to the early re-admission of a diabetic patient. In addition, the model was trained to predict whether a diabetic patient would be re-admitted within the next 30 days. The data set was collected from <a href https://archive.ics.uci.edu/ml/index.php> UCI repository </a> and implements idea from the <a href https://www.hindawi.com/journals/bmri/2014/781670/> paper </a> published by the authors. The data analysis pipeline was build using Py-Spark. <br><br>Skills developed: Python, Py-Spark (MLlib)</br></br>
+            This project was aimed to analyze the factors led to the early re-admission of a diabetic patient. In addition, the model was trained to predict whether a diabetic patient would be re-admitted within the next 30 days. The data set was collected from <a href="https://archive.ics.uci.edu/ml/index.php>UCI repository"</a> and implements idea from the <a href="https://www.hindawi.com/journals/bmri/2014/781670/"> paper </a> published by the authors. The data analysis pipeline was build using Py-Spark. <br><br>Skills developed: Python, Py-Spark (MLlib)<br><br>
          </p>
     </div>
 </div>
@@ -100,7 +100,7 @@
     </div>
     <div class="twoColumn">
          <p>
-            This project was aimed to experiment and evaluate several Machine Learning algorithms. The classification task was to classify whether a locality was high crime zone or low crime zone and the regression task was to predict the crime rate.<br><br>Skills developed: Python, Scikit-learn</br></br>
+            This project was aimed to experiment and evaluate several Machine Learning algorithms. The classification task was to classify whether a locality was high crime zone or low crime zone and the regression task was to predict the crime rate.<br><br>Skills developed: Python, Scikit-learn<br><br>
          </p>
     </div>
 </div>
@@ -114,7 +114,7 @@
     </div>
     <div class="twoColumn">
          <p>
-            This project was aimed to detect and extract license plates of vehicles (4-wheelers) given an image. It takes a multi-step approach, 1) Using several Image processing techniques we extract all contours (Region of interests) from the image and 2) We classify each extracted regions as License Plates or Non-license Plates. <br><br>Skills developed: Python, Scikit-learn, OpenCV</br></br>
+            This project was aimed to detect and extract license plates of vehicles (4-wheelers) given an image. It takes a multi-step approach, 1) Using several Image processing techniques we extract all contours (Region of interests) from the image and 2) We classify each extracted regions as License Plates or Non-license Plates. <br><br>Skills developed: Python, Scikit-learn, OpenCV<br><br>
          </p>
     </div>
 </div
