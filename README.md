@@ -92,7 +92,7 @@
 
 -------------
 
-#### Crime Rate Prediction [*Link*](https://github.com/Sardhendu/Data-Science-Projects/blob/master/Diabetic-Readmission/DiabeticReadmission-Spark.ipynb)
+#### Crime Rate Prediction [*Link*](https://github.com/Sardhendu/Data-Science-Projects/blob/master/Crime-Prediction/crimePrediction.ipynb)
 
 <div id="wrapper">
     <div class="twoColumn">

@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0a8c84c6-5200-42b4-ba7d-90ba68edaacd" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/div.txt" afterPath="$PROJECT_DIR$/div.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,8 +20,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="597">
-                <caret line="112" column="330" lean-forward="false" selection-start-line="112" selection-start-column="330" selection-end-line="112" selection-end-column="330" />
+              <first_editor relative-caret-position="319">
+                <caret line="94" column="137" lean-forward="false" selection-start-line="94" selection-start-column="137" selection-end-line="94" selection-end-column="137" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -60,8 +59,8 @@
       <list>
         <option value="$PROJECT_DIR$/rough.txt" />
         <option value="$PROJECT_DIR$/nrml.txt" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/div.txt" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -294,8 +293,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="597">
-            <caret line="112" column="330" lean-forward="false" selection-start-line="112" selection-start-column="330" selection-end-line="112" selection-end-column="330" />
+          <first_editor relative-caret-position="319">
+            <caret line="94" column="137" lean-forward="false" selection-start-line="94" selection-start-column="137" selection-end-line="94" selection-end-column="137" />
             <folding />
           </first_editor>
           <second_editor />
