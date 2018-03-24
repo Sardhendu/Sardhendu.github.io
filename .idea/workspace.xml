@@ -20,8 +20,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="575">
-                <caret line="84" column="9" lean-forward="false" selection-start-line="84" selection-start-column="9" selection-end-line="84" selection-end-column="9" />
+              <first_editor relative-caret-position="363">
+                <caret line="111" column="18" lean-forward="true" selection-start-line="111" selection-start-column="18" selection-end-line="111" selection-end-column="18" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -42,8 +42,8 @@
       <file leaf-file-name="nrml.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/nrml.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="613">
-              <caret line="60" column="93" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="93" />
+            <state relative-caret-position="713">
+              <caret line="63" column="52" lean-forward="true" selection-start-line="63" selection-start-column="6" selection-end-line="63" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -220,14 +220,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nrml.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="613">
-          <caret line="60" column="93" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="93" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/div.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="813">
@@ -236,11 +228,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/nrml.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="63" column="52" lean-forward="true" selection-start-line="63" selection-start-column="6" selection-end-line="63" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="575">
-            <caret line="84" column="9" lean-forward="false" selection-start-line="84" selection-start-column="9" selection-end-line="84" selection-end-column="9" />
+          <first_editor relative-caret-position="363">
+            <caret line="111" column="18" lean-forward="true" selection-start-line="111" selection-start-column="18" selection-end-line="111" selection-end-column="18" />
             <folding />
           </first_editor>
           <second_editor />
