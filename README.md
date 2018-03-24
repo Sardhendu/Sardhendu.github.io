@@ -11,14 +11,14 @@
 -----------------
 
 
-#### Property Classification [*Link*](https://github.com/Sardhendu/PropertyClassification)
+#### Property Classification [*github*](https://github.com/Sardhendu/PropertyClassification)
 <div id="wrapper">
     <div class="twoColumn">
         <img align="right" width="150" height="150"  src="https://lh3.googleusercontent.com/EP9rVOOBzdv2HSzPlkKwa_ez-MZdG-if66lbs888JO_NDtt89FbBSkCKvfyGC8rNtaDX6Vd5lMApr6_9jniueN-jQdfWxAb5eyJb_GmScKR5VqK_SvxJLVF4Caar6ZnGws-eBRMcpxY4A_zmgf0pu-0psVBFG81gyBzvh-wzIZPBNGTtwYliJaoIuucGuNXW-Bpyr17yb5XHFscEoSyr2TZP2OYjef3Y2BFrbDG54tjg3utfFE6JwnxRcJONT1yLr2Ex2nIKThdQKKSChEdqG9uiEltTFUZyVmgdXgoj6iCAFFsnS-8JZYlpECA6aYqGT3pFtgrwoesOCQsbHC_eOSy9dhigKvuBWVXtraoddtwHDb2ZyehjrQlJBkzuG8ariWJd9K6pUSWPyH48ecqX0pnLt7LI2RIdvX2u6po5NJZT_5I3-4sXtsbc9GFj0PN6zPaQH7d7A8fKZrw4qpqRFTnV-ooaGUivx3ekZ2oH20M2EFMQFw5sCqIvja2EjcotbO0coh2pJWujmqPyMZcnEz8opbBnh2D7yPlCGeys0ns8jFvVe48HdCfi0CeuLNEIL7K2N45E0DcCjWkjWRJr18tsspn4sUmGWfzdNdA=w432-h316-no">
     </div>
     <div class="twoColumn">
          <p>
-            This project is aimed to classify the type of property (Land/House) given a "Address string" or a "real-estate property image". Data is collected and integrated from several sources. Building boundaries are collected from <b>Open Street Map (OSM)</b> and Satellite, Aerial, Streetside images are collected from <b>Google Maps</b> and <b>Bing Maps</b>. Concepts of Semantic Segmentation and model emsembles are employed to output the best prediction given image types.
+            This project is aimed to classify the type of property (Land/House) given an "Address string" or a "real-estate property image". Data is collected and integrated from several sources. Building boundaries are collected from <b>Open Street Map (OSM)</b> and Satellite, Aerial, Streetside images are collected from <b>Google Maps</b> and <b>Bing Maps</b>. Concepts of semantic segmentation and model emsembles are employed to output the best prediction given available images.
             <br><br><b>Skills developed:</b> Python, Scikit-learn, OpenCV, GeoPandas, Shapely, TensorFlow (GPU), Keras, Geojson, Azure Cloud stack<br><br>
          </p>
     </div>
@@ -27,14 +27,14 @@
 
 -----------
 
-#### Credit Card Fraud [*Link*](https://github.com/Sardhendu/Data-Science-Projects/tree/master/CreditCardFraudDetection)
+#### Credit Card Fraud [*github*](https://github.com/Sardhendu/Data-Science-Projects/tree/master/CreditCardFraudDetection)
 <div id="wrapper">
     <div class="twoColumn">
         <img align="right" width="150" height="150"  src="https://lh3.googleusercontent.com/RQPK_BbSR8QM5upN7-wMUL_wXGdwoNaph0Hy7DAAMIVmP-9r1blN_G5YtAh7epmkc8fkvmf_CMYQx1TzHARivoA71BPk9aka3yaplGrKrMRHByHISDrx-2nAxf0UYHv6xMNMyHP4KyAluKKANTdPLaAjO-HfsAKJHxd1MLAulT81KfkiFayDyDtgeLW6mPQbNxBQ7jolwsww4yMM9NUMt_9uwN8MFkD-LoONlvtOTCwehozRWmuR0yY1VYLB2_CDHkhVyBGEeOOlKuus6_CozQbaKuo3DHwp0fl4AyhOIEqCbH74xR0pylmJI4tyG4NQkjO5ynegt86gi9seeFWR49Ui5UIbZ0ZRqOJaRHh0LbCeotHK6PHJGYsXvXBEWo7-YJD-wm5k98Tm9NqlRC4wGkZON9IhB0cZoyEy5iIXJu_xE0Tbi-kiM1mlJK6rDAbUhUW7GOkIvaTZKtKYm-M8mV2cKf4S-7BT_-Y3Q3gvZ3bQ0vDZlLRzpqMqfuUPxPxrPUspkdJLwZi2udzJGnEPILpZEe2FThe_xCN2cnLh1m3UOszRljnlg4TAu1KTSjixpEra1AlXaRILi3ZzieMja4iB3EonDcaVXyjjzXc=w620-h388-no">
     </div>
     <div class="twoColumn">
          <p>
-            This project is aimed to identify credit card frauds. Pattern Recognition techniques such as <b>Bagging and Boosting with Trees</b>, <b>Deep Neural Nets</b>, <b>Autoencoders</b> and <b>Parallelized Bayesian nets</b> are evaluated. The dataset is collected from Kaggle. As a outcome the models parameters are tuned to have high performance in identifying fraud cases.
+            This project is aimed to identify credit card frauds. Pattern Recognition techniques such as Bagging and Boosting with Trees, Deep Neural Nets, Autoencoders and Parallelized Bayesian nets are evaluated. The dataset is collected from Kaggle. As a outcome the models parameters are tuned to have high performance in identifying fraud cases.
             <br><br><b>Skills developed:</b> Python, R, TensorFlow <br><br>
          </p>
     </div>
@@ -46,7 +46,7 @@
 
 -------------------------
 
-#### Deep Face Recognition [*Link*](https://github.com/Sardhendu/DeepFaceRecognition)
+#### Deep Face Recognition [*github*](https://github.com/Sardhendu/DeepFaceRecognition)
 
 <div id="wrapper">
     <div class="twoColumn">
@@ -54,14 +54,14 @@
     </div>
     <div class="twoColumn">
          <p>
-            This application leverages Transfer Learning with Google Net (NN4 small) architecture to recognize faces given an image. It employs a multi-step approach, 1) Extracting all the faces from an image, 2) Labeling the faces with the person name. The application implements ideas from the paper <a href="https://arxiv.org/pdf/1503.03832.pdf">Facenet</a><br><br><b>Skills developed:</b> Python, Tensorflow, OpenCV<br><br>
+            This application leverages Transfer Learning with Google Net (NN4 small) architecture to recognize faces given an image. It employs a multi-step approach, 1) Extracting all the faces from an image, which is simply obtained by Haar Cascades and 2) Labeling the faces with the person name. The application is developed from scratch using Tensorflow and implements ideas from the paper <a href="https://arxiv.org/pdf/1503.03832.pdf">Facenet</a><br><br><b>Skills developed:</b> Python, Tensorflow, OpenCV<br><br>
          </p>
     </div>
 </div>
 
 -----------------
 
-#### CIFAR-10 Object Recognition [*Link*](https://github.com/Sardhendu/CIFAR10-Object-Recognition)
+#### CIFAR-10 Object Recognition [*github*](https://github.com/Sardhendu/CIFAR10-Object-Recognition)
 
 <div id="wrapper">
     <div class="twoColumn">
@@ -69,14 +69,14 @@
     </div>
     <div class="twoColumn">
          <p>
-            This project was aimed to evaluate a mix of several Deep Learning, Image Processing and Machine Learning models to classify an object in an image. The data was collected from <a href="https://www.kaggle.com/c/cifar-10">Kaggle</a>. For the sake of simplicity and to evaluate the algorithms, only 2 classes were used. <a href="https://github.com/Sardhendu/CIFAR10-Object-Recognition/blob/master/Project-Presentation.pdf">PRESENTATION LINK</a><br><br><b>Skills developed:</b> Python, Scikit-learn, OpenCV, Tensorflow<br><br>
+            This project was aimed to evaluate a mix of several Deep Learning, Image Processing and Machine Learning models to classify an object in an image. The data was collected from <a href="https://www.kaggle.com/c/cifar-10">Kaggle</a>. For the sake of simplicity and to perform extensive evaluation of the algorithms only 2 classes were used. <a href="https://github.com/Sardhendu/CIFAR10-Object-Recognition/blob/master/Project-Presentation.pdf">PRESENTATION github</a><br><br><b>Skills developed:</b> Python, Scikit-learn, OpenCV, Tensorflow<br><br>
          </p>
     </div>
 </div>
 
 -----------
 
-#### Diabetic-Readmission Analysis [*Link*](https://github.com/Sardhendu/Data-Science-Projects/blob/master/Diabetic-Readmission/DiabeticReadmission-Spark.ipynb)
+#### Diabetic-Readmission Analysis [*github*](https://github.com/Sardhendu/Data-Science-Projects/blob/master/Diabetic-Readmission/DiabeticReadmission-Spark.ipynb)
 
 <div id="wrapper">
     <div class="twoColumn">
@@ -84,7 +84,7 @@
     </div>
     <div class="twoColumn">
          <p>
-            This project was aimed to analyze the factors led to the early re-admission of a diabetic patient. In addition, the model was trained to predict whether a diabetic patient would be re-admitted within the next 30 days. The data set was collected from <a href="https://archive.ics.uci.edu/ml/index.php">UCI repository</a> and implements idea from the <a href="https://www.hindawi.com/journals/bmri/2014/781670/"> paper </a> published by the authors. The data analysis pipeline was build using Py-Spark. <br><br><b>Skills developed:</b> Python, Py-Spark (MLlib)<br><br>
+            This project was aimed to analyze the factors that led to the early re-admission of a diabetic patient. In addition, the model was trained to predict whether a diabetic patient would be re-admitted within the next 30 days. The data set was collected from <a href="https://archive.ics.uci.edu/ml/index.php">UCI repository</a> and several data processing ideas were borrowed from the <a href="https://www.hindawi.com/journals/bmri/2014/781670/">paper</a> published by the authors. The data analysis pipeline was build using Py-Spark framework. <br><br><b>Skills developed:</b> Python, Py-Spark (MLlib)<br><br>
          </p>
     </div>
 </div>
@@ -92,7 +92,7 @@
 
 -------------
 
-#### Crime Rate Prediction [*Link*](https://github.com/Sardhendu/Data-Science-Projects/blob/master/Crime-Prediction/crimePrediction.ipynb)
+#### Crime Rate Prediction [*github*](https://github.com/Sardhendu/Data-Science-Projects/blob/master/Crime-Prediction/crimePrediction.ipynb)
 
 <div id="wrapper">
     <div class="twoColumn">
@@ -100,21 +100,21 @@
     </div>
     <div class="twoColumn">
          <p>
-            This project was aimed to experiment and evaluate several Machine Learning algorithms. The classification task was to classify whether a locality was high crime zone or low crime zone and the regression task was to predict the crime rate.<br><br><b>Skills developed:</b> Python, Scikit-learn<br><br>
+            This project was aimed to experiment and evaluate several Machine Learning algorithms. The classification task was to classify whether a locality was high crime zone or low crime zone. The regression task was to predict the crime rate (A continuous value). <br><br><b>Skills developed:</b> Python, Scikit-learn<br><br>
          </p>
     </div>
 </div>
 
 --------------
 
-#### License Plate Extraction [*Link*](https://github.com/Sardhendu/License-Plate-Detection):
+#### License Plate Extraction [*github*](https://github.com/Sardhendu/License-Plate-Detection):
 <div id="wrapper">
     <div class="twoColumn">
         <img align="right" width="150" height="150"  src="https://lh3.googleusercontent.com/YsbuLtDMoFguW0Ya4CSuhwWDzUkYVrQw-ARlTN1JgEXHHbRzI8zIeTQ-KJjf_bA6DQ91L4xlzvDyqwqgByCvKyJoN2e3iHRcKDc7O6FVqNToWHiC1fq0GjtP3tkBVIDaIaQt5iqdbkF94q-zI9meBlLFbjbMELiRV32-WI-x_MfKjPjYfJmTa3vLflHb85Sw5RKipKdP3rcdrh_6AMplOkc_mMx7QL-_Hpl3iVbVznYK5IdwPTAK8RqsL9Pf-stUDeCDYgGgx34xBpT7XCgvhcUjAChwzIY8xyEvwpuJu32xk6tFHg_NfN-4qjMD-USnKFg3GBeb5dk4yK2rr1vzIQ2kp1WlyOzuHo5R9W5Fl7fNE3IiH4NzKVYvUTl2GSvHY-XGdwyUEERbL6mjJ16HFBc3cj1bYS2yJ2OeC6RdZ8e6jCvWejCkPjC7YVbII1jHAEWZK2sc5HLav23GKpU32occ0eNKl1VMvRq6mACoC9ZlXGpjZjAkrlWZqgON2pPhqNYFw2tYmICdaBab2HN3oR_JyspdN74z7VBIHarft7UtSkFFsmL74xyblhwRT_PZUTzXazt46YI2ucMENH7UGyggYIjDdZYhzI8ILNk=w358-h278-no">
     </div>
     <div class="twoColumn">
          <p>
-            This project was aimed to detect and extract license plates of vehicles (4-wheelers) given an image. It takes a multi-step approach, 1) Using several Image processing techniques we extract all contours (Region of interests) from the image and 2) We classify each extracted regions as License Plates or Non-license Plates. <br><br><b>Skills developed:</b> Python, Scikit-learn, OpenCV<br><br>
+            This project was aimed to detect and extract license plates of vehicles (4-wheelers) given an image. The model was trained on manually cropped License plates. In addition, Boootstraping methods were used to gather more trainig images. For License plate extraction, a multi-step approach was taken, 1) Using several Image processing techniques all contours (Region of interests) were extracted from the image and 2) Each extracted contours were then classified as License Plates or Non-license Plates. <br><br><b>Skills developed:</b> Python, Scikit-learn, OpenCV<br><br>
          </p>
     </div>
 </div>
