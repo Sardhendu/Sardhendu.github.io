@@ -1,33 +1,30 @@
-<img align="left" width="150" height="150" src="https://github.com/Sardhendu/Sardhendu.github.io/blob/master/SAM.jpeg">
+<img align="left" width="150" height="150" src="https://github.com/Sardhendu/Sardhendu.github.io/blob/master/SAM.png">
 
 <center> <h1> SARDHENDU MISHRA </h1> </center>
 
 <center> Self-motivated data scientist experienced in building, integrating and deploying data science solutions. Strong background in mathematics, algorithms and programming put into regular practice. Well versed with Data Science tools and API’s with proven expertise in deriving insights from high-volume and variety of data assets. </center> 
 
-<h2>DATA SCIENCE PROJECTS</h2>
-
-
 ------------------
 
-<h3> Projects Ongoing: </h3>
+<h2> Projects Ongoing: </h2>
 
 -----------------
 
-<h4><u>Property Classification</u> [*Link*](https://github.com/Sardhendu/PropertyClassification) </h4>
+#### Property Classification</u> [*Link*](https://github.com/Sardhendu/PropertyClassification)
 This project is aimed to classify the type of property (Land/House) given a "Address string" or a "real-estate property image". Data is collected and integrated from several sources. Building boundaries are collected from **Open Street Map (OSM)** and Satellite, Aerial, Streetside images are collected from **Google Maps** and **Bing Maps**. Concepts of Semantic Segmentation and model emsembles are employed to output the best prediction given image types.
 
 ##### Skills developed: Python, Scikit-learn, OpenCV, GeoPandas, Shapely, TensorFlow (GPU), Keras, Geojson, Azure Cloud stack
 
+-----------
 
-
-<h4><u>Credit Card Fraud</u> [*Link*](https://github.com/Sardhendu/Data-Science-Projects/tree/master/CreditCardFraudDetection)</h4>
+#### Credit Card Fraud</u> [*Link*](https://github.com/Sardhendu/Data-Science-Projects/tree/master/CreditCardFraudDetection)
 This project is aimed to identify credit card frauds. Pattern Recognition techniques such as **Bagging and Boosting with Trees**, **Deep Neural Nets**, **Autoencoders** and **Parallelized Bayesian nets** are evaluated. The dataset is collected from Kaggle. As a outcome the models parameters are tuned to have high performance in identifying fraud cases.
 
 ##### Skills developed: Python, R, TensorFlow, 
 
 --------------------------
 
-<center> <h3> Projects Accomplished </h3></center>
+<h2> Projects Accomplished </h3>
 
 -------------------------
 
