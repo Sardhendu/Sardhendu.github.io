@@ -1,4 +1,4 @@
-<img align="left" width="150" height="150" src="https://github.com/Sardhendu/DeepFaceRecognition/blob/master/images/face_snapshot/img4.jpg">
+<img align="left" width="150" height="150" src="https://github.com/Sardhendu/Sardhendu.github.io/blob/master/SAM.png">
 
 <center> <h1> SARDHENDU MISHRA </h1> </center>
 
