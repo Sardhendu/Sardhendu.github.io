@@ -1,6 +1,10 @@
-# Sardhendu.github.io
+<img align="left" width="200" height="200" src="https://github.com/Sardhendu/Sardhendu.github.io/SAM.jpeg">
 
-## Data Science Projects
+<center> <h1> SARDHENDU MISHRA </h1> </center>
+
+
+<center> <h2>DATA SCIENCE PROJECTS</h2> </center>
+
 
 ------------------
 
@@ -49,7 +53,7 @@ This project was aimed to experiment and evaluate several Machine Learning algor
 
 
 #### [License Plate Extraction](https://github.com/Sardhendu/License-Plate-Detection): 
-This project is aimed to detect and extract license plates of vehicles (4-wheelers) given an image. It takes a multi-step approach, 1) Using several Image processing techniques we extract all contours (Region of interests) from the image and 2) We classify each extracted regions as License Plates or Non-license Plates.
+This project was aimed to detect and extract license plates of vehicles (4-wheelers) given an image. It takes a multi-step approach, 1) Using several Image processing techniques we extract all contours (Region of interests) from the image and 2) We classify each extracted regions as License Plates or Non-license Plates.
 
 ##### Skills developed: Python, Scikit-learn, OpenCV
 
