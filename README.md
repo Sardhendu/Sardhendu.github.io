@@ -1,15 +1,13 @@
 
 <div>
-    <img align="left" width="150" height="150" src="https://lh3.googleusercontent.com/7tIQ9fjR7_a0DC4zqxlMXB_kMOqreZdeYDn9JYGiurZPK0nqD3XHDsU4-yXzt1wJMKFW1644QE-abBaD96ll3xpK9PaSWJqMYjEfsPdomxoEFQ1N54pxiZUpq-nF5tFagdMQLNgZi7Lo7Mfmko2e1YNZJ1_BpwPEb2bf0Lhi9rzT24tr3ThlzWUkKr9OFvbS78WTGebjQmCJfc9IJOLFta51kzb_zmvh6lwTIzQH19njSwsTsfgwv_2i2ttKt9rfksmi4nZrn_cMJaD3I_WVFJf4doMh3_cszdXElwJEdG0uuWlu9iSql3NBUy5BZFr2ZBBHgFBHBRdFLydAk3ZGz0gGMpK1dNtoxRvKXq0fxVdXXkdg80OPnLzFqR0M79FaeeWfe5oXXGGRhmBAyspD53fFBzg4xkBAcHznnemJXxIecrkpj2Ym-NA20hBBZbFMkJP6lSMRRJqvQdJbDVc6Ldkf9P47WNjf3Gs98__W78UUt3m8GmJO8RreMasfO-rjOnuf2PBkiNnAQNyno5QLutQNagA41KBcDiPb4DDPdcndIj-FpF_IrJfbysxAT6wC1tkzd22WIuSOHrLsOkkIcfs4WZ_QXU9CfLp5_4gc8Und_TrVkba4gXbbdKTUJl05kkXrlfA8w134SYg0G6us8Ys0ieQarN_J=s400-no">
-     
-   <center> Hi there, I'am a Data Science grad student at Illinois Tech. I was first introduced to Data Science in the late 2013, and ever since I've been smitten with the field. I love coding, and am very passionate about implementing state-of-the art Data science methods to solve real-world problems. I like exploring different domains in data science such as computer vision, text mining, 
-    geosptial analysis, raw data analysis and many more. Here are some of my recent works. I hope you enjoy 
-    reading them.</center> 
-    </p>
+  <img align="left" width="200" height="200" align="middle" hspace="20" src="https://lh3.googleusercontent.com/7tIQ9fjR7_a0DC4zqxlMXB_kMOqreZdeYDn9JYGiurZPK0nqD3XHDsU4-yXzt1wJMKFW1644QE-abBaD96ll3xpK9PaSWJqMYjEfsPdomxoEFQ1N54pxiZUpq-nF5tFagdMQLNgZi7Lo7Mfmko2e1YNZJ1_BpwPEb2bf0Lhi9rzT24tr3ThlzWUkKr9OFvbS78WTGebjQmCJfc9IJOLFta51kzb_zmvh6lwTIzQH19njSwsTsfgwv_2i2ttKt9rfksmi4nZrn_cMJaD3I_WVFJf4doMh3_cszdXElwJEdG0uuWlu9iSql3NBUy5BZFr2ZBBHgFBHBRdFLydAk3ZGz0gGMpK1dNtoxRvKXq0fxVdXXkdg80OPnLzFqR0M79FaeeWfe5oXXGGRhmBAyspD53fFBzg4xkBAcHznnemJXxIecrkpj2Ym-NA20hBBZbFMkJP6lSMRRJqvQdJbDVc6Ldkf9P47WNjf3Gs98__W78UUt3m8GmJO8RreMasfO-rjOnuf2PBkiNnAQNyno5QLutQNagA41KBcDiPb4DDPdcndIj-FpF_IrJfbysxAT6wC1tkzd22WIuSOHrLsOkkIcfs4WZ_QXU9CfLp5_4gc8Und_TrVkba4gXbbdKTUJl05kkXrlfA8w134SYg0G6us8Ys0ieQarN_J=s400-no">
+  
+  <p align="justify">Hi there, I'am a Data Science grad student at Illinois Tech. I was first introduced to Data Science in the late 2013, and ever since I've been smitten with the field. I love coding, and am very passionate about implementing state-of-the art Data science methods to solve real-world problems. I like exploring different domains in data science such as computer vision, text mining, geosptial analysis, raw data analysis and many more. Here are some of my recent works. I hope you enjoy reading them.</p>
 </div>
-
+      
+  
 ------------------
-
+   
 <h2> Projects Ongoing: </h2>
 
 -----------------
@@ -18,10 +16,10 @@
 #### Property Classification [*github*](https://github.com/Sardhendu/PropertyClassification)
 <div id="wrapper">
     <div class="twoColumn">
-        <img align="right" width="150" height="150" src="">
+        <img align="right" width="150" height="150" align="middle" hspace="20" src="">
     </div>
     <div class="twoColumn">
-         <p>
+         <p align="justify">
             This project is aimed to classify the type of property (Land/House) given an "Address string" or a "real-estate property image". Data is collected and integrated from several sources. Building boundaries are collected from <b>Open Street Map (OSM)</b> and Satellite, Aerial, Street-side images are collected from <b>Google Maps</b> and <b>Bing Maps</b>. Different deep learning models are employed and evaluated for different image types. Techniques such as semantic segmentation and model emsembles are employed to output the best prediction given available images.
             <br><br><i><b>Tech Stack:</b> Python, Scikit-learn, OpenCV, GeoPandas, Shapely, TensorFlow (GPU), Keras, Azure Cloud stack</i><br><br>
          </p>
@@ -34,10 +32,10 @@
 #### Credit Card Fraud [*github*](https://github.com/Sardhendu/Data-Science-Projects/tree/master/CreditCardFraudDetection)
 <div id="wrapper">
     <div class="twoColumn">
-        <img align="right" width="150" height="150" src="https://github.com/Sardhendu/Sardhendu.github.io/blob/master/images/CrFraud.jpg">
+        <img align="right" width="150" height="150" align="middle" hspace="20" src="https://github.com/Sardhendu/Sardhendu.github.io/blob/master/images/CrFraud.jpg">
     </div>
     <div class="twoColumn">
-         <p>
+         <p align="justify">
             This project is aimed to identify credit card frauds. Pattern Recognition techniques such as Bagging and Boosting with Trees, Deep Neural Nets, Autoencoders and Parallelized Bayesian nets are evaluated. The dataset is collected from Kaggle. As an outcome the models parameters are tuned to have high performance in identifying fraud cases.
             <br><br><i><b>Tech Stack:</b> Python, R, TensorFlow, XGBoost (Python API) </i><br><br>
          </p>
@@ -123,7 +121,5 @@
          </p>
     </div>
 </div>
-
------------------
 
 
