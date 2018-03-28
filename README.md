@@ -20,7 +20,7 @@
     </div>
     <div class="column">
         <p align="justify">
-            This project is aimed to classify the type of property (Land/House) given an "Address string" or a "real-estate property image". Data is collected and integrated from several sources. Building boundaries are collected from <b>Open Street Map (OSM)</b> and Satellite, Aerial, Street-side images are collected from <b>Google Maps</b> and <b>Bing Maps</b>. Different deep learning models are employed and evaluated for different image types. Techniques such as semantic segmentation and model emsembles are employed to output the best prediction given available images.<br><br><i><b>Tech Stack:</b> Python, Scikit-learn, OpenCV, GeoPandas, Shapely, TensorFlow (GPU), Keras, Azure Cloud stack</i><br><br>
+            This project is aimed to classify the type of property (Land/House) given an "Address string" or a "real-estate property image". Data is collected and integrated from several sources. Building boundaries are collected from Open Street Map (OSM) and satellite, aerial, street-side images are collected from Google Maps and Bing Maps. Different deep learning models are employed and evaluated for different image types. Techniques such as semantic segmentation and model emsembles are employed to output the best prediction given available images.<br><br><i><b>Tech Stack:</b> Python, Scikit-learn, OpenCV, GeoPandas, Shapely, TensorFlow (GPU), Keras, Azure Cloud stack</i><br><br>
          </p>
     </div>
 </div>
