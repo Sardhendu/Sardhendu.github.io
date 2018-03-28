@@ -2,7 +2,8 @@
 
 <center> <h1> SARDHENDU MISHRA </h1> </center>
 
-<center> Self-motivated data scientist experienced in building, integrating and deploying data science solutions. Strong background in mathematics, algorithms and programming put into regular practice. Well versed with Data Science tools and API’s with proven expertise in deriving insights from high-volume and variety of data assets. </center> 
+<center> Hi there, I'am a Data Science grad student at Illinois Tech. I was first introduced to Data Science in the late 2013, and ever since I've been smitten with the field. I love coding, and am very passionate about implementing state-of-the art Data science methods to solve real-world problems. I like exploring different domains in data science such as computer vision, text mining, 
+geosptial analysis, raw data analysis and many more. Here are some of my recent works.</center> 
 
 ------------------
 
