@@ -33,7 +33,7 @@ reading them.</center>
 #### Credit Card Fraud [*github*](https://github.com/Sardhendu/Data-Science-Projects/tree/master/CreditCardFraudDetection)
 <div id="wrapper">
     <div class="twoColumn">
-        <img align="right" width="150" height="150" src="https://lh3.googleusercontent.com/RQPK_BbSR8QM5upN7-wMUL_wXGdwoNaph0Hy7DAAMIVmP-9r1blN_G5YtAh7epmkc8fkvmf_CMYQx1TzHARivoA71BPk9aka3yaplGrKrMRHByHISDrx-2nAxf0UYHv6xMNMyHP4KyAluKKANTdPLaAjO-HfsAKJHxd1MLAulT81KfkiFayDyDtgeLW6mPQbNxBQ7jolwsww4yMM9NUMt_9uwN8MFkD-LoONlvtOTCwehozRWmuR0yY1VYLB2_CDHkhVyBGEeOOlKuus6_CozQbaKuo3DHwp0fl4AyhOIEqCbH74xR0pylmJI4tyG4NQkjO5ynegt86gi9seeFWR49Ui5UIbZ0ZRqOJaRHh0LbCeotHK6PHJGYsXvXBEWo7-YJD-wm5k98Tm9NqlRC4wGkZON9IhB0cZoyEy5iIXJu_xE0Tbi-kiM1mlJK6rDAbUhUW7GOkIvaTZKtKYm-M8mV2cKf4S-7BT_-Y3Q3gvZ3bQ0vDZlLRzpqMqfuUPxPxrPUspkdJLwZi2udzJGnEPILpZEe2FThe_xCN2cnLh1m3UOszRljnlg4TAu1KTSjixpEra1AlXaRILi3ZzieMja4iB3EonDcaVXyjjzXc=w620-h388-no">
+        <img align="right" width="150" height="150" src="https://github.com/Sardhendu/Sardhendu.github.io/blob/master/images/CrFraud.jpg">
     </div>
     <div class="twoColumn">
          <p>
