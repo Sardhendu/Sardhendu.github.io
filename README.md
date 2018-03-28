@@ -71,7 +71,7 @@
     </div>
     <div class="column">
          <p align="justify">
-            This project was aimed to evaluate a mix of several Deep Learning, Image Processing and Machine Learning models to classify an object in an image. The data was collected from <a href="https://www.kaggle.com/c/cifar-10"><i>Kaggle</i></a>. For the sake of simplicity and to perform extensive evaluation of the algorithms, only two objects were used for classification. <a href="https://github.com/Sardhendu/CIFAR10-Object-Recognition/blob/master/Project-Presentation.pdf"><i>Presentation Link<i></a><br><br><i><b>Tech Stack:</b> Python, Scikit-learn, OpenCV, Tensorflow</i><br><br>
+            This project was aimed to evaluate a mix of several Deep Learning, Image Processing and Machine Learning models to classify an object in an image. The data was collected from <a href="https://www.kaggle.com/c/cifar-10"><i>Kaggle</i></a>. For the sake of simplicity and to perform extensive evaluation of the algorithms, only two objects were used for classification. <a href="https://github.com/Sardhendu/CIFAR10-Object-Recognition/blob/master/Project-Presentation.pdf"><i>Presentation Link</i></a><br><br><i><b>Tech Stack:</b> Python, Scikit-learn, OpenCV, Tensorflow</i><br><br>
          </p>
     </div>
 </div>
