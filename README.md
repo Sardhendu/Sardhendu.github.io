@@ -19,7 +19,7 @@
     <div class="twoColumn">
          <p>
             This project is aimed to classify the type of property (Land/House) given an "Address string" or a "real-estate property image". Data is collected and integrated from several sources. Building boundaries are collected from <b>Open Street Map (OSM)</b> and Satellite, Aerial, Street-side images are collected from <b>Google Maps</b> and <b>Bing Maps</b>. Different deep learning models are employed and evaluated for different image types. Techniques such as semantic segmentation and model emsembles are employed to output the best prediction given available images.
-            <br><br><b>Skills developed:</b> Python, Scikit-learn, OpenCV, GeoPandas, Shapely, TensorFlow (GPU), Keras, Geojson, Azure Cloud stack<br><br>
+            <br><br><i><b>Tech Stack:</b> Python, Scikit-learn, OpenCV, GeoPandas, Shapely, TensorFlow (GPU), Keras, Azure Cloud stack</i><br><br>
          </p>
     </div>
 </div>
@@ -34,8 +34,8 @@
     </div>
     <div class="twoColumn">
          <p>
-            This project is aimed to identify credit card frauds. Pattern Recognition techniques such as Bagging and Boosting with Trees, Deep Neural Nets, Autoencoders and Parallelized Bayesian nets are evaluated. The dataset is collected from Kaggle. As a outcome the models parameters are tuned to have high performance in identifying fraud cases.
-            <br><br><b>Skills developed:</b> Python, R, TensorFlow <br><br>
+            This project is aimed to identify credit card frauds. Pattern Recognition techniques such as Bagging and Boosting with Trees, Deep Neural Nets, Autoencoders and Parallelized Bayesian nets are evaluated. The dataset is collected from Kaggle. As an outcome the models parameters are tuned to have high performance in identifying fraud cases.
+            <br><br><i><b>Tech Stack:</b> Python, R, TensorFlow, XGBoost (Python API) </i><br><br>
          </p>
     </div>
 </div>
@@ -54,7 +54,8 @@
     </div>
     <div class="twoColumn">
          <p>
-            This application leverages Transfer Learning with Google Net (NN4 small) architecture to recognize faces given an image. It employs a multi-step approach, 1) Extracting all the faces from an image, which is simply obtained by Haar Cascades and 2) Labeling the faces with the person name. The application is developed from scratch using Tensorflow and implements ideas from the paper <a href="https://arxiv.org/pdf/1503.03832.pdf">Facenet</a><br><br><b>Skills developed:</b> Python, Tensorflow, OpenCV<br><br>
+            This application leverages Transfer Learning with Google Net (NN4 small) architecture to recognize faces given an image. It employs a multi-step approach, 1) Extracting all the faces from an image, which is simply obtained by Haar Cascades and 2) Labeling the faces with the person name. The application is developed from scratch using Tensorflow and implements ideas from the paper <a href="https://arxiv.org/pdf/1503.03832.pdf">Facenet</a><br><br><i><b>Tech Stack:</b> Python, 
+            Tensorflow, OpenCV</i><br><br>
          </p>
     </div>
 </div>
@@ -69,7 +70,7 @@
     </div>
     <div class="twoColumn">
          <p>
-            This project was aimed to evaluate a mix of several Deep Learning, Image Processing and Machine Learning models to classify an object in an image. The data was collected from <a href="https://www.kaggle.com/c/cifar-10">Kaggle</a>. For the sake of simplicity and to perform extensive evaluation of the algorithms only 2 classes were used. <a href="https://github.com/Sardhendu/CIFAR10-Object-Recognition/blob/master/Project-Presentation.pdf">PRESENTATION github</a><br><br><b>Skills developed:</b> Python, Scikit-learn, OpenCV, Tensorflow<br><br>
+            This project was aimed to evaluate a mix of several Deep Learning, Image Processing and Machine Learning models to classify an object in an image. The data was collected from <a href="https://www.kaggle.com/c/cifar-10">Kaggle</a>. For the sake of simplicity and to perform extensive evaluation of the algorithms, only 2 classes were used for classification. <a href="https://github.com/Sardhendu/CIFAR10-Object-Recognition/blob/master/Project-Presentation.pdf">PRESENTATION</a><br><br><i><b>Tech Stack:</b> Python, Scikit-learn, OpenCV, Tensorflow</i><br><br>
          </p>
     </div>
 </div>
@@ -84,7 +85,7 @@
     </div>
     <div class="twoColumn">
          <p>
-            This project was aimed to analyze the factors that led to the early re-admission of a diabetic patient. In addition, the model was trained to predict whether a diabetic patient would be re-admitted within the next 30 days. The data set was collected from <a href="https://archive.ics.uci.edu/ml/index.php">UCI repository</a> and several data processing ideas were borrowed from the <a href="https://www.hindawi.com/journals/bmri/2014/781670/">paper</a> published by the authors. The data analysis pipeline was build using Py-Spark framework. <br><br><b>Skills developed:</b> Python, Py-Spark (MLlib)<br><br>
+            This project was aimed to analyze the factors that led to the early re-admission of a diabetic patient. In addition, the model was trained to predict whether a diabetic patient would be re-admitted within the next 30 days. The data set was collected from <a href="https://archive.ics.uci.edu/ml/index.php">UCI repository</a> and several data processing ideas were borrowed from the <a href="https://www.hindawi.com/journals/bmri/2014/781670/">paper</a> published by the authors. The data analysis pipeline was build using Py-Spark framework. <br><i><br><b>Tech Stack:</b> Spark, Py-Spark (MLlib), Python</i><br><br>
          </p>
     </div>
 </div>
@@ -100,7 +101,7 @@
     </div>
     <div class="twoColumn">
          <p>
-            This project was aimed to experiment and evaluate several Machine Learning algorithms. The classification task was to classify whether a locality was high crime zone or low crime zone. The regression task was to predict the crime rate (A continuous value). <br><br><b>Skills developed:</b> Python, Scikit-learn<br><br>
+            This project was aimed to experiment and evaluate several Machine Learning algorithms. The classification task was to classify whether a locality was high crime zone or low crime zone. The regression task was to predict the crime rate (A continuous value). <br><br><i><b>Tech Stack:</b> Python, Scikit-learn</i><br><br>
          </p>
     </div>
 </div>
@@ -114,7 +115,7 @@
     </div>
     <div class="twoColumn">
          <p>
-            This project was aimed to detect and extract license plates of vehicles (4-wheelers) given an image. The model was trained on manually cropped License plates. In addition, Boootstraping methods were used to gather more trainig images. For License plate extraction, a multi-step approach was taken, 1) Using several Image processing techniques all contours (Region of interests) were extracted from the image and 2) Each extracted contours were then classified as License Plates or Non-license Plates. <br><br><b>Skills developed:</b> Python, Scikit-learn, OpenCV<br><br>
+            This project was aimed to detect and extract license plates of vehicles (4-wheelers) given an image. The model was trained on manually cropped License plates. In addition, Boootstraping methods were used to gather more training images. For License plate extraction, a multi-step approach was taken, 1) Using several Image processing techniques all contours (Region of interests) were extracted from the image and 2) Each extracted contours were then classified as License Plates or Non-license Plates. <br><br><i><b>Tech Stack:</b> Python, Scikit-learn, OpenCV</i><br><br>
          </p>
     </div>
 </div>
