@@ -1,4 +1,4 @@
-<img align="left" width="200" height="200" src="https://lh3.googleusercontent
+<img align="left" width="150" height="150" src="https://lh3.googleusercontent
 .com/7tIQ9fjR7_a0DC4zqxlMXB_kMOqreZdeYDn9JYGiurZPK0nqD3XHDsU4-yXzt1wJMKFW1644QE-abBaD96ll3xpK9PaSWJqMYjEfsPdomxoEFQ1N54pxiZUpq-nF5tFagdMQLNgZi7Lo7Mfmko2e1YNZJ1_BpwPEb2bf0Lhi9rzT24tr3ThlzWUkKr9OFvbS78WTGebjQmCJfc9IJOLFta51kzb_zmvh6lwTIzQH19njSwsTsfgwv_2i2ttKt9rfksmi4nZrn_cMJaD3I_WVFJf4doMh3_cszdXElwJEdG0uuWlu9iSql3NBUy5BZFr2ZBBHgFBHBRdFLydAk3ZGz0gGMpK1dNtoxRvKXq0fxVdXXkdg80OPnLzFqR0M79FaeeWfe5oXXGGRhmBAyspD53fFBzg4xkBAcHznnemJXxIecrkpj2Ym-NA20hBBZbFMkJP6lSMRRJqvQdJbDVc6Ldkf9P47WNjf3Gs98__W78UUt3m8GmJO8RreMasfO-rjOnuf2PBkiNnAQNyno5QLutQNagA41KBcDiPb4DDPdcndIj-FpF_IrJfbysxAT6wC1tkzd22WIuSOHrLsOkkIcfs4WZ_QXU9CfLp5_4gc8Und_TrVkba4gXbbdKTUJl05kkXrlfA8w134SYg0G6us8Ys0ieQarN_J=s400-no">
 
 <center> <h1> SARDHENDU MISHRA </h1> </center>
@@ -17,7 +17,7 @@ reading them.</center>
 #### Property Classification [*github*](https://github.com/Sardhendu/PropertyClassification)
 <div id="wrapper">
     <div class="twoColumn">
-        <img align="right" width="150" height="150" src="https://lh3.googleusercontent.com/EP9rVOOBzdv2HSzPlkKwa_ez-MZdG-if66lbs888JO_NDtt89FbBSkCKvfyGC8rNtaDX6Vd5lMApr6_9jniueN-jQdfWxAb5eyJb_GmScKR5VqK_SvxJLVF4Caar6ZnGws-eBRMcpxY4A_zmgf0pu-0psVBFG81gyBzvh-wzIZPBNGTtwYliJaoIuucGuNXW-Bpyr17yb5XHFscEoSyr2TZP2OYjef3Y2BFrbDG54tjg3utfFE6JwnxRcJONT1yLr2Ex2nIKThdQKKSChEdqG9uiEltTFUZyVmgdXgoj6iCAFFsnS-8JZYlpECA6aYqGT3pFtgrwoesOCQsbHC_eOSy9dhigKvuBWVXtraoddtwHDb2ZyehjrQlJBkzuG8ariWJd9K6pUSWPyH48ecqX0pnLt7LI2RIdvX2u6po5NJZT_5I3-4sXtsbc9GFj0PN6zPaQH7d7A8fKZrw4qpqRFTnV-ooaGUivx3ekZ2oH20M2EFMQFw5sCqIvja2EjcotbO0coh2pJWujmqPyMZcnEz8opbBnh2D7yPlCGeys0ns8jFvVe48HdCfi0CeuLNEIL7K2N45E0DcCjWkjWRJr18tsspn4sUmGWfzdNdA=w432-h316-no">
+        <img align="right" width="150" height="150" src="">
     </div>
     <div class="twoColumn">
          <p>
