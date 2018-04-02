@@ -2,7 +2,7 @@
 <div>
   <img align="left" width="200" height="200" hspace="20" src="https://lh3.googleusercontent.com/7tIQ9fjR7_a0DC4zqxlMXB_kMOqreZdeYDn9JYGiurZPK0nqD3XHDsU4-yXzt1wJMKFW1644QE-abBaD96ll3xpK9PaSWJqMYjEfsPdomxoEFQ1N54pxiZUpq-nF5tFagdMQLNgZi7Lo7Mfmko2e1YNZJ1_BpwPEb2bf0Lhi9rzT24tr3ThlzWUkKr9OFvbS78WTGebjQmCJfc9IJOLFta51kzb_zmvh6lwTIzQH19njSwsTsfgwv_2i2ttKt9rfksmi4nZrn_cMJaD3I_WVFJf4doMh3_cszdXElwJEdG0uuWlu9iSql3NBUy5BZFr2ZBBHgFBHBRdFLydAk3ZGz0gGMpK1dNtoxRvKXq0fxVdXXkdg80OPnLzFqR0M79FaeeWfe5oXXGGRhmBAyspD53fFBzg4xkBAcHznnemJXxIecrkpj2Ym-NA20hBBZbFMkJP6lSMRRJqvQdJbDVc6Ldkf9P47WNjf3Gs98__W78UUt3m8GmJO8RreMasfO-rjOnuf2PBkiNnAQNyno5QLutQNagA41KBcDiPb4DDPdcndIj-FpF_IrJfbysxAT6wC1tkzd22WIuSOHrLsOkkIcfs4WZ_QXU9CfLp5_4gc8Und_TrVkba4gXbbdKTUJl05kkXrlfA8w134SYg0G6us8Ys0ieQarN_J=s400-no">
   
-  <p align="justify">Hi there, I'am a Data Science grad student at Illinois Tech. I was first introduced to Data Science in the late 2013, and ever since I've been smitten with the field. I love coding, and am very passionate about implementing state-of-the art Data Science methods to solve real-world problems. I like exploring different domains in data science such as computer vision, text mining, geosptial analysis, raw data analysis and many more. Here are some of my recent works. I hope you enjoy reading them.</p>
+  <p align="justify">Hi there, I'am a Data Science grad student at Illinois Tech. I was first introduced to Data Science in the late 2013, and ever since I've been smitten by the field. I love coding, and am very passionate about implementing state-of-the art Data Science methods to solve real-world problems. I like exploring different domains in data science such as computer vision, Natural Language Processing, geosptial analysis, raw data analysis and many more. Here are some of my recent works. I hope you enjoy reading them.</p>
 </div>
       
   
@@ -16,7 +16,7 @@
 #### Property Classification [*github*](https://github.com/Sardhendu/PropertyClassification)
 <div id="wrapper">
     <div class="column">
-        <img align="right" width="150" height="150" hspace="20" src="https://lh3.googleusercontent.com/vRNlWo7zTCK1V7db2if4-_eRpp5I68JR3tq3rdLEPKsgz3kZr87LZgoCFHMqdBzuncnUfjNGR9S25Ok4ILlB0BGERFdkiBui0ywqyFhSL6w_OwtV1C6Z97o1HHOGuBftHJHQkIVyvGZiCbH3hxPtrKcIFouS9yGoLa9KrajaB5swRuTwNDyTPsBc6M7GZfiNmJ02hY1EwY2sTdYHG4F1yhE8y98Au5Fpon9IX37Xhz_xCS2iVzXdAwJZ2ExJDc2ypHT_Dm2I06FXl8GwlouhCu9ZL7w_K4Btz1dvFq8OHHFhKq1brJ3LqyFhrsIgKlKn2Tp1v5LjvasL0lHzRzZO017_PKyCj_UTQwZdbvUbLZQ4ZbLRAo6oGIcluDVeEaX3mXTRQeoIKQxiWU6sjmNYvUJynNSo5F3ThBUghhrRkJx3_-PuolVirhKC9hveMFUM2Z6RVfwRoEevmiOX92zbUmcrXH7jyQK-TP0Zz5m-NALQ3IRj__SGY_kj1aQV_sUEPk_JMG5iP8hdQcHna_IzcFY0TLVSyfSVIT7aJmJOIIV0JiLbfFyM_KpA14v6VupjrtGHfJNbVhEF112ayoyCv5GmMoTzNb7EEUVSeto=w432-h316-no">
+        <img align="right" width="150" height="150" hspace="20" src="https://lh3.googleusercontent.com/jtPWsQNIfmzb2qSmAuMquAwW_jxEZWHNGz4WzqFGShUFTF1hCcUX_eTzn4TE5gzxQifZyJFsc_YljBOuHXfRznoel0Cr42N8BzCpkMsRNUya3zUpnbmtnRxsWkI-7mfdRAONULnQELMiIUvbW7KzG2fxYlOM9fnkbfUd0F_R--4Yrnvft4VwFTkodlD1IGmJEu7eW4gcUOdgqUJ_Y9XPed5K3wO63tJ8TZj7IK4Pl03YopnSOOujseb-_23rytqk5lgizRBs4fEJC8gqlahzHXQ82HWS8vbbNJkMSFKDcG-yPO3Xx-vU-u187zLWe52K7k3TgSvmfbZ7gfWCR2t2owLwJslsDRMtP9nyBx4WhSzMv6v6YYEmuhMHshV6N-NE9mWmERZiKj2HozpZC6Dsvt9Pftx3ivPmsQx-cEvXxOrEvhBBTohcWfAB2gbK0KIYjrwSfbAbzNDhMhAsIh6w4ULDzwhg7on5ussAcwf3zlFsrBIg8oWnzEjbl6lgB2P7lv7tCvAhyMeUy84PoijVf2IZOFf-f743CAfz_8KuoDgT87eevXxpmzO1YCdiYjeIAoIMhbij9Y3pHn_O-15Wgqnv0okKIE1mtEYHo0K2FmDjCZNCZWVSyC-oZu0nqCr0CT14fNoc2Z0ZbrSR4Ojei9EqbHc6lnwq=w432-h316-no">
     </div>
     <div class="column">
         <p align="justify">
@@ -31,7 +31,7 @@
 #### Credit Card Fraud [*github*](https://github.com/Sardhendu/Data-Science-Projects/tree/master/CreditCardFraudDetection)
 <div id="wrapper">
     <div class="column">
-        <img align="right" width="150" height="150" hspace="20" src="https://lh3.googleusercontent.com/-mTjHv-fQAUuuFhYJDvuGH2I7tULrMQePtknFTmT32ZQHCG_MRQ1yr6Ct3TlG2Yue64d06j-mpIkXZV-3ghvpykkxL6_i8m4Y9EuK0VBgnUlhU0YP7OFWW8MEJvz7xB0IAyMgzP4YD0p2kZC9CeRJimRhC_LA6STUSWqj5WEvh0hJhTEF7HJVVajMc0UqgNc-8r_SVMySaz0T3VzEXsT85GVbpv0xRaBe5n_zESjtsHv68e3gFsEBWfWAnIMrHTmDIUmbLO_NCLhTE7MdkdjxjBCdsi9QMu_aZ3-zWJphDXg8wEXpfzE5iMDao2IJZj2jfRIxnb0wfCjgEeD18jCvWNgYJQpR1hF6S0Atni7pUUh_WByP4Y0wCUxT-RZg1mSLi663yA6gV9PXnGYN9fyFdRKCdrVIFbd2YUsGaonSNnSxRcsjUgIqRkjqEes0pqxUazqmA5pHvxrwYARudlxm4EaBzUmwOvvhC_FqTuavRMCZpaERGEjm49Xz6rCyaxqCivNo3bwlsZgWGACalJpEaNuebMUCGTEJvDDsNfk1gBvjXM2k9b15qwGz9ZLVkiip-vlr-Jtjl5Xv6hMXh56gg7MXwiY1NbCa5XIcYc=w620-h388-no">
+        <img align="right" width="150" height="150" hspace="20" src="https://lh3.googleusercontent.com/dKyCfcqPl1cVNJla2kXnw15T_OJca0W6vISDNh-gMBrd4hGlxrjE1ghha2gIIfDB4jGEKOIIOxG13n_CZI18k0I8PbrBZ4ObB3NqRhv_M9WY0tRVnnC6wOGJ2WAiPTQ5FhjoeO3KR2HoPyHWdli4Mgt5Q9_KdmGJ_Up1gWKQrDjzJa3WWSIq4Vm2CjugAyqV8caUMYGxI4DlZaKh1YPTgyPcGWNJzTOtrX7i5IDF8JhQfPDmpMr-6RfbERqebq7KkkAYhkOH3kVk22mOFbi-doFo1SucjYE1V4-QAFnsDYp--KHTYJwFjmPMy49yFmHoiOnfFwzTo3DdbfZ-o6y-Isgzd7fxRWp-7nWYxwZJ8TPg4Nuu3YEgxzVkbB0Rp5tJuAwOJCQV7KnLdVFU6fFTaIHNnWcs3a1rNkaaCVap90jQ9bVS_a0XZc0LFiQ691o_ZWdl63tV2EetVgxWExwhLrgXHGXehAbJbrBn9gjIYBE6jOro3IEo8DEvHqhuQwIoEHMdkLBWlH_LslRkWU_mxpvBIG-S4wgQWpju3R_LjwzKBO4okdTndKzbVqcIaymuHsPxT3H0lIJkjGNNAdqnTgEIUzI12eOc-IDnqPl8DUmwQmEh8LwNMdJzjP0N5KEMDY8gVYtOHsOJE5N4IXkEOEZd31jhhB-f=w620-h388-no">
     </div>
     <div class="column">
          <p align="justify">
@@ -51,7 +51,7 @@
 
 <div id="wrapper">
     <div class="column">
-        <img align="right" width="150" height="150" hspace="20" src="https://lh3.googleusercontent.com/qqo5SVHpodq1Yq6QN5YfPCjTcN1Rwe-Eblm1ongCiYE1NPT66P5zUK5fr6MWpKu6T1Lelcqb3iPEM0Kl4A6XM8ShArdlnBuGj2XhFwpsonrSbcTPObpLXe6CleZ-2up1px3QmdHwJClIZvHmiYtSnhkG4j7--xjq1ub2-qYNiENs9sIJ9FZDJJrlSLq5AWhLPyu-_VvL2eY66Wiif1cfULHS5NTnp-hbe5pW3YdSB78jpE7AqWQhrdOgMPqQwHQkpUbS2z-SNju7hM8HRE7q21LUYUd7uGhdIX4CCdhYyiynTn0COiHAO3YdHdrra55l2PU97N16c-pfQ9m1iC63XrMLN-DwuH1ptRimc76rTHBrQ7mBMbx157duGA5TTmYD6thFBI2LJ78-943Pg4XxvQmnOo-dQE8xC-VBLYUlw-54o-VOp_W3dLsHtr4YWcj1pcn6SkqudljEchhAt8xXNdPBhe3_ak-cBnc8yr4Mrn0Wy9uvs-_NZbQ9eMGy8dEqRf1YtkJjSNs1c_9BtcyC1p-5UJd8AFzTgZ-htpiicvAmbbaJdTS9FtkTlO35EVSQYuv5Zz2oaTrgg9Xqcf_HtquIc1A1EyOUrviHR3Y=w454-h378-no">
+        <img align="right" width="150" height="150" hspace="20" src="https://lh3.googleusercontent.com/F04lsbbtcIm5F3LcsWyPFsKweHrx_rxxToFwuRXQ51T21B3UIlWce_mHG7g2VOGWwggJY3anPyEzjjHpUsewGSrqW5F3Knv01CQ4b3Pcnk0zV9fZVLIuNExLohYd1KeD0BW2Dhq-VE_uGYSgnOdw0UKrpsKWYjMzftjlJzj0nlXCbVsEHM_VOWRqQYdG30hBhxqO45Q2oqeEEZnGf68kyhUUZrbSKA_GfKpJOd_ifJkNMtWFpwgVWAj77oK5kobCHed8oR9L8X1CaM6y1u69nod1AaRBi5RBEJEsq6q8XRqpsKUkmxNb-eozGCBZC7ZVZcSn_FmubjMsT-WwE61P8UffkoZ_u1WNj21KSWIZ8w0u5yQ3UrD_6J63oLoKy9AyncNeBLdMpsiE4Iwc3hPQZV8EUcLQF4b_0lOx3YuU36CcwkYUPfnH_sHscblwxAyAm_nN-cZC4mx5qWcXcwWJYJwDAmtgNLsxnsEuSyIs5LyffAvO-QxzILFUEiuJVSQC1mKkEEx_v7o-3aQHYdP5YmBb2fzjVAEsWUVpJIBuhTVP66ML1Dr19q_o5gbvAcT2v8oZIgwU35RZ2p88Wy6uMiXOOj9Gt0NLvSDiy7Gw9sn0A7uQS0regsU2fZSVqe1dvbiDJyLqjMfi8XucZM2PjN0mxhl_wvO9=w454-h378-no">
     </div>
     <div class="column">
          <p align="justify">
@@ -67,7 +67,7 @@
 
 <div id="wrapper">
     <div class="column">
-        <img align="right" width="150" height="150" hspace="20" src="https://lh3.googleusercontent.com/_F95NDUPFJUz-vSbDdb6PmLckcbu9bNhn4hkpPwhadWh0FT3a7SL-Cssynh51pmgwR4iYVMTe4013Zs1PCpzbIQdIAI4Woe0WZ82RU4-N6I44OLmO15a2KrifGPvvUAsDrH-_KPp6OIQSct3gu5_r8JkBQM6nC6wxSc_ZvVlvsNu9gat6CMcorZYyuh1xC1USYIYkCuRB0INa0cm8S-70V7HR8K6qV71P4lqJilR9rHG2D4m7Bx80Yc_hM4Zcq99uEbcTgnT9S0bu7vDO4JghQgUcTZI4X9uR644EJ-3uEWDMZpiumPb1rrJbbZl6eNJpLMF5lxAMumzAic1tRhOhR28f1q08jHIH3pTuxv2bbDEviVb_G0WFUvP1uBi5QghYF5-IJwS4vMw_8uyTEOJ1NgBPyO8qxuc5n8ZUWMB8OtKKUKdFlDTnXLwQHHEjwD6sqpLf8C5tRLnZCIuIRFtvunsW_Wp21mPuw_WxJLf3mG4igwS9slZjOV1XyqhY2l7NYEwl38fIM78_OQTfRLYJpaVmUbtfG9HVqBjBcyCz3wtzjF8yatdgYFSE4YJcm-yRWI98pBoBf9wlOKz2L5-aozL7ty1wFwmQgvK1U0=w363-h366-no">
+        <img align="right" width="150" height="150" hspace="20" src="https://lh3.googleusercontent.com/R6R8G-kAyb4NUuLrgzjXhAWgoQ9bF9eH0IrDJh-qc6ia2kxkzZRVhjeoyTinnZtuAyoOD5iIo_ODiGWtA23VVBZyiQH6TCVerNpIU_dW1TlbKOFCL6mALhaHI295gizBKN-dyj9g4pVqwC1oVRMP-LM6eLIJFRAwBk0xrvIribomWyMM5ylFKE0HQsi78rAJz-ueVLlOIYNQT-yDK0cK4jftYCpd3AZfXY8heAA2GIYD8D5NP0Ci5PVkGl12ua3vpel72xREI3jN0lT2u9WgXd9ne2Rd6au1qGuqNVGVx4y818jfESJb5Wg0iaK6PDqJ7plDl370aSdV0ZlJ28bM1aV9JUe-sul5o9FKL9lb-N9TnxPSIH5qflg2tuX0LoMCuvlLoFRn9oDlbKQ6gj7WPfFTOjxluOLll4TJxgovi6YLvsd5WXZX_lC8BQXRmTY841WEVUbER_m9cYjFhjaxJKoS1XlJ0XEacDiEh6tflpPa0Tjx36ga_cSnebY6Jv0Jd7S0KeWZGzwpVReD_LDjUhRCAreGh5xlsc_pjPKJ8aU9T-OjwBo7p9ePvcXuAT8DtdK_X_sA4E7Rk4Cp0-H6Six0Y6737GanVtd6xNTg8lQyjfUCgl3KmGQEU3hWEBE75Xv68XB9Sn_fpILjNQntk3GRmpscDQSs=w363-h366-no">
     </div>
     <div class="column">
          <p align="justify">
@@ -82,7 +82,7 @@
 
 <div id="wrapper">
     <div class="column">
-        <img align="right" width="150" height="150" hspace="20" src="https://lh3.googleusercontent.com/iohJjg0QFY0h0cD2zZoQ89GNPtnv0z6NNoJ8TRWu6em9zbRtEM0fvu2RYsaDjcgRdCzEvDt0PtiN8UILqYyPK27ZROWW34_FSS4VEBFFv_urOV2SgJQJ_LGxql1ANr8S1M023muyU6C2fC6zUiHbLji8QeoiIA8YqFMpD2b-igBFZjJHAKRxSUDp_T8Vu9KCLD8ZvNTw1facSPJ0h-khMoTMaM-gU8xY5QSiRJgD_2zw8xwh6ehj3eh_Np1p2Vw7xsvEf2jf8wElurPtGHlp6Is9M9m3ta9kXTNRrNLdqiqFoHtYB0ihe8RAitx2yk3X1N4ZgWK_a2XjSxo98k9sTZ0VmTWU3LEgLUqQDmx36cAUD-OkEAkb9PAgDeReyB5Oi7R-aYV-mD6ee9rUPWQl-WgOL1XwYFR6z4KEhoUe2EEgd9Vs7Fo0Hda8JRMq33g1trs3MPBfoG6ZHOEKmUggLRm_0DmP4flQqqjmAavHVWl3mi52rUQKiJoiugw1HBC41er8FeiOdUpgA6njMEmtermdBgHXi0QVpkbS7jlp-L289fmFyumjxlQrcMC-OJveHPqc5c9Q_6KEuWTOLJFHF7Jy_LznXINijah5618=w300-h200-no">
+        <img align="right" width="150" height="150" hspace="20" src="https://lh3.googleusercontent.com/4LA_DAR6wqH1cMzJLbck_Eyf_aXkM1XpzYToy0m30PEBz6nfan2hnRkZyjiCJwGRYXe-bgDsgftCXulIkzHqCtDmzhi53rci0EGKDbnditj58w0yOTAk27i-3vNOtJEm17XQvGOGrc6HHtlZCpUfaCBOOkSKcyauCY0ucXjr4hm72gHSFWrnZPnhUq2kUjo-gZ5p6Vzuizq1fKZoa-vMNvMuTUWixUkT6iyxrcIWiYAAuGCMiUUJEXubnTNk2kcIoUNLoO-VJSxTL4k9cWug0C4gSyfyrjj67j3g3Bng1YZXeT6phGy9uGtwuHFD3aX7O8t8usGRBlNMAyb3aZDIIavCC2ConbK56L7CHbOMhbgu_7SkxB35UIo2jcoWgbbGj14b_g3odmEhp7HQQZwGk2-IK7cwuPqbmVp9OIKsQV6FsvUzOWIu9ZqPP-lxpEmSRSx1Mp8AerSKL3nczSANBHLnK8E1IWTWVMjUG1RC23JcbgGrHLoUjv9D1OeDxK2aHzdgF-jF7ZnJJ6XrZCuGnGvSSEXdzq5_sWo32PGBJ9cECf_A7OeBI3FzY5bSXzs9IYjlz4KnneoOG9z7IL9b5n1sNiTv8Vm6D7yooypHNI0E8hiVFZCfooaVJ9HiZZkxBvq1A3xoBhWF2WzHQ28iN-4j1CrRRQ10=w300-h200-no">
     </div>
     <div class="column">
         <p align="justify">
@@ -98,7 +98,7 @@
 
 <div id="wrapper">
     <div class="column">
-        <img align="right" width="150" height="150" hspace="20" src="https://lh3.googleusercontent.com/CvIM3UDFxWBieZVWBJ4KAPCmekhXAyK27Nirw8cfcfkimgs6yQ3FdSLFuWB7xJb-v8MPUKW6YRf01_U2qK4HEsycASAHkGCvpmmsURJErj3ziUi4FbyH_8vjkS9RY6ym47fcNTXeTzoyDQpj8CZOR6ksCfwkJWNl8fEwD5ChiMAQAx86R5RB_FFwg1kLUAgM9kOhKjSt8rZc2VOYtB4ykNCdcurK34lX57MRL09S1Akgn0QAFNtF6_5h97fUTVQqpyvD3N_Cjxj69-pDcSjjza2Ww3b3J2so8o4ivuz7lVdRiyaAEKGXAvkkhQM2KVec5p2cEVbWVDHd5iVNwgiBe-buLa9ivjyqJ6wezz2Zp3Z8J5SxBgSlRw5FNPtPMARRjzfisty-oTde8ZY_8Jez92XdHR6JQIx6tacQJTnNFbaXbWf_e6ivGy2-D_QUQw5laAOySZ_BbgMPW3zbElW_WomDGCglKEEBp7LIM2oRba4qXN4chqEwD3H9kyqc2Ayu8wuyKs09yq00Vz2NHRwJ6zPdZsMyLpGMSQZhSCyn3JT557owwxyiv5ybV3S1Bp8sJnGxAb7KifDai7oiHiTOJL43aE_U3UHwTk4fo2I=w312-h234-no">
+        <img align="right" width="150" height="150" hspace="20" src="https://lh3.googleusercontent.com/VWziiuKh0WZTRf8mY5p_6doQxyIDAjqQLjGrv2bunLUg5ukyt0GVrp4ozo2_m-aadBuAb2S_ry-PqZWOOM44aZOPd3_LYpSaxWVLcAg5hrVJCOhAxMqeO4wx1ntHYORWLMpLDWQXv5nAllCMPdvkFQyNgO5HKxf1WkDxkxVe7EbOLSnTPClofeoW-lziDZMiGAf4YPTsbewJRBlWJmxR8YRqhf3y08A7SPP_J-iNar8fx0JKP9YYU4E1Y5-WZL2SOtJEU5bbb9WbW8xepUggCeRLRt_j5eRNuUuQHUCX948lEAuPWtRqLSZ1RQ9x5nF1JP5LeAksEykNBODzcewkROGyHGf-F3yOgiS_u34AQZDFc5_i2wbYLTt2TO_PAdbKpWeJxNV5NFX-ZMUIKATXysvrLG0gkwSW35RY_cV5ayhRjAOT8f379O7jeTBaxaUuv05w_V1miLZAbNkle-VB7QYhHrZVKqk38sb734nfqlGeQLPGCPar3MAxObxZ-mwvvAUBqT37e_R-PanaEpQ_UkqdoPj-mWkgPw1DznxTGgeMxBfS8WJ3vStCOXHZRUfBPpaDqZWDOQ1epFX6yaPxraJ3ffdz5L31bWL2zrhsZ70OsUPp5DdXz5Ew3CBcoZOfNqImrCN1lheNMqKjYDlp5mMcZ_xUzDao=w312-h234-no">
     </div>
     <div class="column">
          <p align="justify">
@@ -112,7 +112,7 @@
 #### License Plate Extraction [*github*](https://github.com/Sardhendu/License-Plate-Detection):
 <div id="wrapper">
     <div class="column">
-        <img align="right" width="150" height="150" hspace="20" src="https://lh3.googleusercontent.com/uivrO2EN5_REvLIdUuDm3_DHgO4K1yLOqsjWBNNnmZHr1sSrhRE7TVJQKLBcFdOF3MxFRsAk3XXOf0Df2MY5sO9NM73iWmSXOZxdTkJga1tRgNEbS6p8EFTRh7ncVC2rBe_lxv8VdGZhI_3pjcF65g33cGWKoCO7p1565wvrwM2a3B8yVB8lDq27VgDUvABIFhMnXW8c8RCFyPOuPaYsfSbeyy5ROd38Z5MUYfHhx7GIg1Yq5k2Ir6DiPxH2KvjirkqlJ1HevDjaWt2Gtzxp6VZgvZsp5uw_00xy9Cz5NuhAl5FUVb5_6Ivke2d2ro9_3ktoXhZxOS7iG27EFrvSeAfmUGtlQZ8OjtSJZXHFvFcQKkV2IOV9FXblde0VItpMRuNl1i2UdewumGZgfUNxbYR5e9otQvKMpXKe6Mo_VehPgfd_8l7zfyKeJW36WTKkrZed7v93xfAeTtVsl4xDg4lpkGW-3VEFn5rbIh1rGYbuU1mbXdvbwi1EbS5RlXGTOFrwciI9yvjPwTlhJZ49eA4Eo7esWv2P77m8GWWcCmlZcMIwbj0s9SYddeUSQ5D5Ev4Zr60ixiBAre1oVbjAAcn9Mlw0OuMS43005bA=w358-h278-no">
+        <img align="right" width="150" height="150" hspace="20" src="https://lh3.googleusercontent.com/p4GKdOOeb2uXa7FyEkg_vHlOt9wmB20eatgfv00hrMDAkoMb9PuAVVFDKg-7Phj8FjfX-levvQ_tMUqvtf3yaybQWVx7dibi-o7aLfoIGsvnR5nQ4PAZbVRAedqCwZJgWzMt-09Yapb0W8P8sDBryN2gZ_FWeHoIGPumOMVgUKTMT8l3-0rRhgKD-mYilnhpiNpNSFdmPuD6pJz642cJTvMj71XoZSTHAMsp01toSW1SdOhyP01Xb9GcsRu2s4KAeMpI4V6D1iljbP0hZBWiwxUGgMJpdk1QV5LfnebxOQMOFj77gRidUCvz_WGSsEE4GDh7kqpFVGlaPdqgs5Kybs415oQorNG18rwg074CpJOJ820_iF4wh9VdEXtHVXFBlDKwiXzUrZ1dDUV3R6CNk36Rz4UGtAAbxETzjbKb0m-rvnXXMxOdKHQlUSOIoSP-tLVrvlM8tlAWKULLTKNv8HUArNK--BolUAFEjLYq-Lhzvlsnj9e7_xQFUYQjPlCl7XpzLlnh2PjJ5Exj18dJIeYun12F58jCin7BjbUsmPaHios0PpWn70sInzw54jDr7_kWAR5P2l10Xz5caFYpspN63O2PArxXjvO6A3iLPIBEO_odn7aB1wagq-WKwhBQnoaADnfK5cZ5o_BOy94C5xAw6pY0iHRw=w358-h278-no">
     </div>
     <div class="column">
          <p align="justify">
