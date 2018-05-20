@@ -19,7 +19,7 @@
     </div>
     <div class="column">
         <p align="justify">
-            This project is aimed to detect object in an image. The detection process in deep learning can be achieved in several ways. Some techniques such as YOLO (You only look once) can be performed in real-time. Whereas, other techniques such as Faster-RCNN and Mask-RCNN can be performed in near real-time and cna be extended to wide variety of applications. This project is aimed to perform YOLO and Mask-RCNN object detection.<br><br><i><b>Tech Stack:</b> Python, Scikit-learn, OpenCV, TensorFlow (GPU), Keras</i><br><br>
+            This project is aimed to detect object in an image. The detection process in deep learning can be achieved in several ways. Some techniques such as YOLO (You only look once) can be performed in real-time. Whereas, other techniques such as Faster-RCNN and Mask-RCNN can be performed in near real-time and can be extended to wide variety of applications. This project is aimed to implement YOLO and Mask-RCNN object detection techniques.<br><br><i><b>Tech Stack:</b> Python, Scikit-learn, OpenCV, TensorFlow (GPU), Keras</i><br><br>
          </p>
     </div>
 </div>
