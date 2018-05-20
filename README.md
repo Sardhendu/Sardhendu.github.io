@@ -53,8 +53,7 @@
     </div>
     <div class="column">
          <p align="justify">
-            This project is aimed to identify credit card frauds. Pattern Recognition techniques such as Bagging and Boosting with Trees, Deep Neural Nets, Autoencoders and Parallelized Bayesian nets are evaluated. The dataset is collected from Kaggle. As an outcome, the models parameters are tuned to have high performance in identifying fraud cases.
-            <br><br><i><b>Tech Stack:</b> Python, R, TensorFlow, XGBoost (Python API) </i><br><br>
+            This project is aimed to identify credit card frauds. Pattern Recognition techniques such as Bagging and Boosting with Trees, Deep Neural Nets, Autoencoders and Bayesian methods with MCMC sampling are evaluated. The dataset is collected from Kaggle. As an good outcome, the models parameters are tuned to have high performance in identifying fraud cases.<br><br><i><b>Tech Stack:</b> Python, R, TensorFlow, XGBoost (Python API) </i><br><br>
          </p>
     </div>
 </div>
