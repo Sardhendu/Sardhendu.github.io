@@ -12,6 +12,24 @@
 
 -----------------
 
+#### Object Detection: Semantic Segmentation [*github*](https://github.com/Sardhendu/PropertyClassification)
+<div id="wrapper">
+    <div class="column">
+        <img align="right" width="150" height="150" hspace="20" src="https://lh3.googleusercontent.com/6goPnyvKUobVPZeZLRDUZTmt89Mcj4m-Mzie_D1QZo7DE50fRe7mtwsr8C4vfweHvN4piHK8h3r7TSF-bVqtxgQ7y7nZ137GFsp5MpygSlMaxTVUxrPDRljI2i96LmnoDgQUTbeqwn1gHxlUkVyNRj9JUcfd23zvgYVH2lmKANEmDRopKEzPyUJorl2xJvFHUrYLGlXoTVHMtjvlEUMIwhIUsCQMAH1K4uL17ePYIMvLOV1sQw3hRGYVYyBPolPjx1zdqEbts5NWXJqlcMOr0TTIMp3jjpoab9GRLzpLPgKsI2fdLrdr2ai4--iGrgQNPAO6tTB0OGWj3YteOUUV-Sk8koRB8nPM0mscA8NBNBFX7E3eUBdlVOtlVN2u960ct5g-0XNDTgnYN_IUHLnxSfPJvoqfAKFKPdUG6-0sGy6rYioOEl6zHFuUDol3SHOdHSpM5fLT5MqYDcUcB2M_n1vLY0TRC3QcprcolB8yA5GHCjgJ_m8FJTrscNu2mX_vTgXiFmjEAZDvx6P4Unjtr5aBog_T3EO6ns6KlcVm4y2v8kPJBqMllyO1JjeGMr6wxXelQTCabkCdwkWGcX-3elAPTu14jY7S2t9qbfg=w958-h450-no">
+    </div>
+    <div class="column">
+        <p align="justify">
+            This project is aimed to detect object in an image. The detection process in deep learning can be achieved in several ways. Some techniques such as YOLO (You only look once) can be performed in real-time. Whereas, other techniques such as Faster-RCNN and Mask-RCNN can be performed in near real-time and cna be extended to wide variety of applications. This project is aimed to perform YOLO and Mask-RCNN object detection.<br><br><i><b>Tech Stack:</b> Python, Scikit-learn, OpenCV, TensorFlow (GPU), Keras</i><br><br>
+         </p>
+    </div>
+</div>
+
+
+--------------------------
+
+<h2> Projects Accomplished </h2>
+
+-------------------------
 
 #### Property Classification [*github*](https://github.com/Sardhendu/PropertyClassification)
 <div id="wrapper">
@@ -26,7 +44,7 @@
 </div>
 
      
------------
+------------
 
 #### Credit Card Fraud [*github*](https://github.com/Sardhendu/Data-Science-Projects/tree/master/CreditCardFraudDetection)
 <div id="wrapper">
@@ -41,11 +59,7 @@
     </div>
 </div>
 
---------------------------
-
-<h2> Projects Accomplished </h2>
-
--------------------------
+-----------
 
 #### Deep Face Recognition [*github*](https://github.com/Sardhendu/DeepFaceRecognition)
 
